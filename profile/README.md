@@ -10,7 +10,7 @@ Below is a summary of its key features:
 
 - **Adaptive Repairs**: AxonOps includes an advanced repair process that monitors node throughput and manages repair operations efficiently, ensuring consistency without compromising performance.
 
-- **Backup and Restore**: The platform supports highly configurable backup and restore processes, including Point-in-Time Restore (PITR) for precise data recovery. It integrates seamlessly with various storage options such as local storage, SSH/SFTP, Amazon S3, Google Cloud Storage, and Azure Blob[5].
+- **Backup and Restore**: The platform supports highly configurable backup and restore processes, including Point-in-Time Restore (PITR) for precise data recovery. It integrates seamlessly with various storage options such as local storage, SSH/SFTP, Amazon S3, Google Cloud Storage, and Azure Blob.
 
 - **External Integrations**: AxonOps supports integration with tools like Teams, ServiceNow, PagerDuty, Slack etc.. allowing users to customize their monitoring and alerting setups according to their needs.
 
