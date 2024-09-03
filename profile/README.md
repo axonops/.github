@@ -20,6 +20,9 @@ Below is a summary of its key features:
 
 - **Scalability**: AxonOps is designed to scale with your needs, supporting hundreds of clusters and thousands of nodes across multiple data centers.
 
+- **Cluster Provisioning**: Provision a production grade Cassandra cluster simply, securely and directly into your Cloud account and under your complete control.
+
+
 ## AxonOps Workbench for Cassandra
 
 [AxonOps Workbench](https://github.com/axonops/axonops-workbench-cassandra) is a fully opensource desktop application built for Cassandra DB developers and DBAs. Seamlessly connect and interact with Apache Cassandra clusters while enjoying a host of innovative enhancements and exciting features.
