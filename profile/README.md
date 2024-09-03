@@ -33,3 +33,8 @@ AxonOps offers a free starter plan for up to 6 nodes, allowing users to explore 
 - [Cassandra One-Stop Operations with AxonOps - Cassandra Summit 2023](https://www.youtube.com/watch?v=7pfMz2vsGYY) (video)
 - [Documentation](https://docs.axonops.com/)
 - [LinkedIn](https://www.linkedin.com/company/axonops/)
+
+***
+
+*Apache, Apache Cassandra, Cassandra, Apache Spark, Spark, Apache TinkerPop, TinkerPop, Apache Kafka and Kafka are either registered trademarks or trademarks of the Apache Software Foundation or its subsidiaries in Canada, the United States and/or other countries.*
+</small>
