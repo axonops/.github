@@ -1,5 +1,3 @@
-![Copy of AxonopsDigitalMaster_AxonopsFullLogoBlue](https://github.com/user-attachments/assets/aaa6e7d3-12d2-4394-8c07-1c39a697f90e)
-
 [AxonOps](https://axonops.com)™ is a comprehensive management platform designed for Apache Cassandra®, offering a suite of tools to simplify monitoring, maintenance, backups and development. Built by Cassandra experts, the only cloud native solution to monitor, maintain and backup any Apache Cassandra cluster anywhere via our SaaS or self-hosted solution.
 
 Below is a summary of its key features:
