@@ -18,7 +18,7 @@ Below is a summary of its key features:
 - **Manage the entire lifecycle of your Kafka topics**: Take control of the creation and management of your topics from cradle to grave.
   
 - **Manage and Search your Kafka topic ACLs with ease**: Easily maintain and update your topic ACLs including, user and group authentication, change history and drift detection.
-- 
+
 - **External Integrations**: AxonOps supports integration with tools like Teams, ServiceNow, PagerDuty, Slack etc.. allowing users to customize their monitoring and alerting setups according to their needs.
 
 - **Service Health Checks**: The platform includes a service health dashboard with RAG status indicators, offering quick insights into the health of your systems. It supports shell, HTTP, and TCP checks, with configurations that can be dynamically updated.
