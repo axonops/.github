@@ -1,7 +1,7 @@
 <p align="center"><img width="1095" alt="Screenshot 2024-11-04 at 13 30 45" src="https://github.com/user-attachments/assets/030f5d41-a916-495e-b818-24dcd3661422"></p>
 
 
-[AxonOps](https://axonops.com) is a comprehensive management platform designed for Apache Cassandra and Apache Kafka, offering a suite of tools to simplify monitoring, maintenance, backups and development. Built by Cassandra and Kafka experts, the only cloud native solution to monitor, maintain and backup any Apache Cassandra or Apache Kafka cluster anywhere via our SaaS or self-hosted solution.
+[AxonOps™](https://axonops.com) is a comprehensive management platform designed for Apache Cassandra and Apache Kafka, offering a suite of tools to simplify monitoring, maintenance, backups and development. Built by Cassandra and Kafka experts, the only cloud native solution to monitor, maintain and backup any Apache Cassandra or Apache Kafka cluster anywhere via our SaaS or self-hosted solution.
 
 Below is a summary of its key features:
 
@@ -47,4 +47,4 @@ AxonOps offers a free starter plan for up to 6 nodes, allowing users to explore 
 
 ***
 
-*Apache, Apache Cassandra, Cassandra, Apache Spark, Spark, Apache TinkerPop, TinkerPop, Apache Kafka and Kafka are either registered trademarks or trademarks of the Apache Software Foundation or its subsidiaries in Canada, the United States and/or other countries.*
+*AxonOps is a registered trademark of AxonOps Limited. Apache, Apache Cassandra, Cassandra, Apache Spark, Spark, Apache TinkerPop, TinkerPop, Apache Kafka and Kafka are either registered trademarks or trademarks of the Apache Software Foundation or its subsidiaries in Canada, the United States and/or other countries.*
