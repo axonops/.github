@@ -39,11 +39,7 @@ https://github.com/user-attachments/assets/d60408a9-f19f-4112-8a42-68ea4b3d3cab
 
 ## CQLAI
 
-<img src="https://github.com/axonops/cqlai/raw/main/assets/cqlai-logo.svg" width="64" align="left" alt="CQLAI">
-
 [CQLAI](https://github.com/axonops/cqlai) is a modern AI-powered CQL shell for Apache Cassandra with rich terminal UI, cqlsh compatibility, and natural language query generation. A fast, portable interactive terminal built in Go, offering enhanced productivity features with optional AI capabilities. 100% free and open-source with no hidden costs or premium tiers.
-
-<br clear="left"/>
 
 ## Getting Started
 
