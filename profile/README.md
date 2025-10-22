@@ -49,6 +49,8 @@ AxonOps offers a free starter plan for up to 6 nodes, allowing users to explore 
 
 ## Resources
 - [Website](https://axonops.com/)
+- [Blog](https://axonops.com/blog)
+- [Events & Webinars](https://axonops.com/events) - We regularly run webinars supporting users of Apache Cassandra and Kafka
 - [AxonOps Demo](https://axonops.com/demo-sandbox/)
 - [Cassandra One-Stop Operations with AxonOps - Cassandra Summit 2023](https://www.youtube.com/watch?v=7pfMz2vsGYY) (video, talk)
 - [Documentation](https://docs.axonops.com/)
