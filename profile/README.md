@@ -2,6 +2,8 @@
 
 [AxonOps™](https://axonops.com) is a comprehensive management platform designed for Apache Cassandra and Apache Kafka, offering a suite of tools to simplify monitoring, maintenance, backups and development. Built by Cassandra and Kafka experts, the only cloud native solution to monitor, maintain and backup any Apache Cassandra or Apache Kafka cluster anywhere via our SaaS or self-hosted solution.
 
+At AxonOps, we are passionate supporters of open source data technologies. Our commitment extends beyond our commercial platform—we actively contribute to the open source community through projects like AxonOps Workbench and CQLAI, alongside various other open source tools and contributions. We believe in empowering developers and database administrators with free, accessible tools that enhance their productivity and make working with Apache Cassandra, Apache Kafka, and other open source data platforms more efficient and enjoyable.
+
 https://github.com/user-attachments/assets/d60408a9-f19f-4112-8a42-68ea4b3d3cab
 
 ## Key Features
