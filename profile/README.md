@@ -33,6 +33,10 @@ https://github.com/user-attachments/assets/d60408a9-f19f-4112-8a42-68ea4b3d3cab
 
 [AxonOps Workbench](https://github.com/axonops/axonops-workbench-cassandra) is a free and fully opensource desktop application built for Cassandra DB developers and DBAs. Seamlessly connect and interact with Apache Cassandra clusters while enjoying a host of innovative enhancements and exciting features.
 
+## CQLAI
+
+[CQLAI](https://github.com/axonops/cqlai) is a modern AI-powered CQL shell for Apache Cassandra with rich terminal UI, cqlsh compatibility, and natural language query generation. A fast, portable interactive terminal built in Go, offering enhanced productivity features with optional AI capabilities. 100% free and open-source with no hidden costs or premium tiers.
+
 ## Getting Started
 
 AxonOps offers a free starter plan for up to 6 nodes, allowing users to explore its full functionality. For larger deployments, enterprise plans are available, offering extended features and support
